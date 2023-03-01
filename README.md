@@ -5,7 +5,6 @@
 * Programs that use custom libraries
 * A simple webstie with CRUD functionality
 
-#### Some projects may be have errors
 
 
 ### Contact me via chinhnguyen1692000z@gmail.com
